@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "5b21",
+      "cityName": "Aldan",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2024-09-01T13:56:30.655Z",
+      "notes": "dasdsadsa",
+      "position": {
+        "lat": "58.263287052486035",
+        "lng": "131.48437500000003"
+      }
+    },
+    {
+      "id": "38d2",
+      "cityName": "Al Kharjah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-09-01T13:56:30.655Z",
+      "notes": "dasdsadsa",
+      "position": {
+        "lat": "26.37218544169559",
+        "lng": "30.558471679687504"
+      }
+    },
+    {
+      "id": "c683",
+      "cityName": "Rubielos de Mora",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-01T14:00:44.478Z",
+      "notes": "",
+      "position": {
+        "lat": "40.206148095775056",
+        "lng": "-0.7086181640625"
+      }
+    },
+    {
+      "id": "fbe2",
+      "cityName": "St. Jakob in Haus",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-09-01T14:01:49.229Z",
+      "notes": "",
+      "position": {
+        "lat": "47.48751300895658",
+        "lng": "12.568359375000002"
+      }
+    }
+  ]
+}
